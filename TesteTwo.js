@@ -1,0 +1,1 @@
+console.log('Arranjo é uma regra de tres')
